@@ -1,4 +1,4 @@
-# FCLIP Image Retrieval
+# CLIP Image Retrieval
 
 This project demonstrates the use of a fine-tuned CLIP model (FCLIP) to perform image-to-image retrieval. Given a **query image**, the model retrieves the **top-5 most similar images** from a dataset based on visual-semantic embeddings.
 
